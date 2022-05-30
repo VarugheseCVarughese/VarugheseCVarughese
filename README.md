@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Varughese Chakkittadathu Varughese
+- 🌱 I’m currently working on a project for Optimal Scheduling of Engineering Maintenance Work
+- Aston AIBS AE2 [210195482]
